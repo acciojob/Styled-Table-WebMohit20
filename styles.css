@@ -1,1 +1,15 @@
 /* your code */
+table{
+	border-radius: 5px;
+	border:1px solid;
+	thead{
+		background-color:lightblue;
+		border-collapse: collapse;
+		tr th{
+			margin:0;
+		}
+	}
+	tbody{
+		
+	}
+}
